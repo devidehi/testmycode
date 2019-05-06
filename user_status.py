@@ -6,6 +6,7 @@ users = [
 	{'admin': False, 'active': True, 'name': 'Vivek'},
 	{'admin': False, 'active': False, 'name': 'Jyothi'},
 	{'admin': True, 'active': True, 'name': 'Smitha'},
+	{'admin': False, 'active': True, 'name': 'Sunil'},
 ]
 
 line = 1
