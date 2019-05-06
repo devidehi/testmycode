@@ -2,7 +2,6 @@
 
 users = [
 	{'admin': True, 'active': True, 'name': 'Devi'},
-	{'admin': True, 'active': True, 'name': 'Devidehi'},
     {'admin': True, 'active': False, 'name': 'Amit'},
 	{'admin': False, 'active': True, 'name': 'Vivek'},
 	{'admin': False, 'active': False, 'name': 'Jyothi'},
