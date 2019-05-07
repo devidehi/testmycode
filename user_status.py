@@ -8,6 +8,7 @@ users = [
 	{'admin': True, 'active': True, 'name': 'Smitha'},
 	{'admin': False, 'active': True, 'name': 'Sunil'},
 	{'admin': True, 'active': True, 'name': 'Ravi'},
+	{'admin': True, 'active': True, 'name': 'Ram'},
 ]
 
 line = 1
