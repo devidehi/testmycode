@@ -12,7 +12,6 @@ users = [
 	{'admin': True, 'active': True, 'name': 'Sita'},
 	{'admin': True, 'active': True, 'name': 'Hanuman'},
 	{'admin': True, 'active': True, 'name': 'Laxman'},
-	{'admin': True, 'active': True, 'name': 'Ravan'},
 ]
 
 line = 1
